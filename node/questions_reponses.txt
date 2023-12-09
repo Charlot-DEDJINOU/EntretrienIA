@@ -1,0 +1,111 @@
+offre: Nous sommes une entreprise dynamique et innovante à la recherche de Stagiaires talentueux pour rejoindre notre équipe. Si vous êtes passionné(e) par le développement web ou le design graphique et que vous souhaitez acquérir une expérience pratique au sein d'une entreprise en pleine croissance, alors cette opportunité est faite pour vous.
+
+Missions :
+• Participer à la conception et au développement de sites web interactifs et fonctionnels
+• Collaborer avec l'équipe pour résoudre des problèmes techniques et mettre en œuvre des solutions efficaces
+• Tester et optimiser les fonctionnalités des sites web
+• Suivre les tendances et les technologies émergentes dans le domaine du développement web.
+
+Stagiaire en Design Graphique :
+• Créer des visuels attrayants pour les supports numériques et imprimés
+• Collaborer avec l'équipe pour comprendre les besoins graphiques des projets
+• Suivre les tendances du design et proposer des idées créatives.
+cv: 
+
+CharlotJoëlDEDJINOU
+AbomeyCalaviZogbadjèBENIN
++22959105267dedjinoucharlotjoel@gmail.com
+Linkedln:CharlotDEDJNOU
+EDUCATION
+FormationsAcadémiques:
+2021-2024:Universitéd’AbomeyCalavi-AbomeyCalavi,Benin
+DeuxièmeannéeenGénieLogicielàl’InstitutdeFormationetdeRechercheenInformatiqueIFRI
+
+BoursierMasterCardàl’UAC
+2023-2024:ResponsabledelacinquièmecohortedelabourseMasterCardàL’UAC
+2014-2021:CEGL’Entente-Cotonou,Benin
+2021:BaccalauréatC
+
+2019-2021:Responsabledeclasse
+FormationsCertifiantes:
+
+SQL,PHP,Kotlin,React-ReduxSololeran
+Bootstrap,ReactJs,Python,PHP&MYSQLOpenClassroom
+AnglaisTBCAFRICA-USA
+
+LeadershipJohnMaxwellTeam
+13certificatssurledeveloppementpersonneletprofessionnelPlateformeBaobab
+CompétencesTechniques:
+
+Maitrisedesframeworksfront-endReactJsetBootstrap
+MaitrisedeslanguagesPHPetPythonpourleBack-end
+
+MaitrisedulanguageSQLpourl’administrationdesbasesdedonnéesMYSQL
+MaitrisedulanguageKotlinetleframeworkReactNativepourledeveloppementMobile
+
+ConnaissancedelamétéhodologiededéveloppementAgile
+ConnaissanceenMachineLearningetdesalgorithmesd’apprentissageautomatique(regression,classification,
+réseauxdeneurones)
+
+MaitrisedeslanguagedeprogrammationduLanguageCetC++
+EXPERIENCESPROFESSIONNELLES
+Janvier2023-Présent:ECO-TICProductManagmentpourlaréalisationd’unsitewebpourlagestiondes
+DEEEs
+ParticipationàlamodélisationdusiteenutilisantlelanguageUML
+
+ParticipationàlaréalisationdelamaquetteaveclelogicielFigma
+Participationàl’implementationdufront-endutilisantleframeworkReactJs
+06Decembre2022-10Décembre2022:HacktonYatsBenin,TroisièmePrix
+Participationàlamodélisationd’uneapplicationMobiledeJeuxpourlacultureetL’ArtduBénin
+Participationàlaréalisationdelamaquettedelamêmeapplication
+
+Réalisationdelapaged’accueildel’applicationenutilisantleframeworkReactNative
+05Novembre2022-17Décembre2022:ConcoursMAIC-MIFYSARL,PremierPrix
+Réalisationd’uneIntelligenceArtificiellecapabledejouerleJeudeMorabarabaenutulisantle
+languagedeprogrammationPython
+Août2022-Présent:WebdevelopmentStartup:
+
+Participationàlamodélisationd’unsitewebquigénèreunCVgrâceàtesinformations
+Participationàlaréalisationdelamaquettedumêmesite
+
+Réalisationdufront-endd’unsitee-commerceenutilisantleframeworkReactJs
+RéalisationdeToDOListquipermetdeplanifierdestâchesenutilisantleHTML,CSS,JS
+Reproductiondelapaged’accueildusitee-resultats.comenutlisantleHTMLetCSS
+
+Réalisationdelapaged’accueild’unsitedeventedeproduitcosmetiqueenutilisantleHTMLetCSS
+Réalisationd’unecarted’inviationenutilisantleHTMLetleCSS
+
+Septembre2022-Présent:Personnel
+Réalisationd’unSmartphoneVirtuelcontenantdesapplicationsfonctionnellestelqueLecture
+Musique,LecteurVidéos,Galerie,Word,P.Tache,G.Client,Whatsapp,Jeux,Smsd’amour,etcen
+utlisantleHTML,CSS,JS,PHP,SQL,MYSQL,AJAX.
+Réalisationd’uneapplicationWebpourlagestiondesclientspourunevendeusedediversenutilisant
+leHTML,CSS,PHP,SQL,MYSQL
+RéalisationdetroisautresprojetsmettantenpratiquelesanimationsCSS
+ACTIVITEESDEVOLONTARIAT
+Novembre2022-Présent:AfricaYoungOrganisation(AYO)Bénin,Membre
+Diffusiond’informationsrelativesàl’organisationsurlesreseausociaux
+Octobre2022:HAPPYChildren
+Contribueràl’associationenoffrantdeslivreslorsdelacampagnedecollectededocumentspourles
+enfantsorphelins
+Janvier2023-Présent:InitiativeAfriqueenOrMembre
+ParticiperaàinitierlesjeunesAfricainsaunumérique
+15-30Décembre2022:Nuitd’ExcellencedesBoursierMasterCardàl’UAC,Membre
+Jouerlerôled’hotêsselorsdelasoirée
+
+Ecrireunprogrammepythonquifaitledispatchingéquitabledesinvités
+Août2022-Septembre2022:ExpositiondesBoursiersMasterCardàl’UAC,Membre
+Veuillezàladispositiondestables,chaises,etcàtempsetàl’installationdesexposants
+Juin2022-Présent:Givng-BackdesBoursiersMasterCardMembre
+ParticiperàlajournéedesalubritédujardinUdel’universitéd’AbomeyCalavi
+AUTRESINFORMATIONS
+CompétencesPersonnellesCentresd’interetsCompétencesLinguistiques
+-Espritd’équipe-SportFrançaisB2
+-Adaptabilité-MusiqueAnglaisB1
+-Ouvertured’esprit-Comédie
+-RelationnelAisé-Developper
+-Résolutiondeproblèmequestion: Bonjour et bienvenue ! Je suis ravi d'avoir l'opportunité de discuter avec vous aujourd'hui. Tout d'abord, parlons de votre parcours académique et professionnel. Pouvez-vous me parler de vos formations et de vos expériences en développement web et en design graphique ?
+reponse: voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes question: Bien sûr ! Pouvez-vous nous parler de vos expériences spécifiques en développement web et en design graphique ?
+reponse: voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après question: Merci pour ces informations détaillées sur votre parcours. J'aimerais savoir si vous avez déjà travaillé sur des projets de développement web ou de design graphique pour des entreprises ou clients spécifiques.
+reponse: voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique  en 2e setter une entreprise voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique  en 2e setter une entreprise  ou une église et l'église mécanisaires informations question: Quels types de projets de développement web ou de design graphique avez-vous réalisés au cours de votre parcours académique ou professionnel ?
+reponse: voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique  en 2e setter une entreprise voilà je vais répondre à ta question et je me suis étudié en 3e année que je veux logiciel à une information de recherche informatique tu veux venir en tant que développeurs compétences techniques tu as pas avec plaisir à carton ainsi que les autres personnes concernant les expériences professionnelles comme je l'ai signé j'ai rien réalisé des projets personnel également de ta carte parmi ces projets  graphique la maquette d'une application mobile concernant la livraison de pizza et également une application de la maquette de l'application pour la vente des tableaux d'après spécifiques et je dirais non à part dans et dans le cadre d'un stage académique  en 2e setter une entreprise  ou une église et l'église mécanisaires informations 
