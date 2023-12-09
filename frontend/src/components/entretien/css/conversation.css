@@ -1,0 +1,56 @@
+.conversation {
+    width: 525px;
+    height: 90vh;
+}
+.conversation .title {
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.3);
+}
+.conversation .title h5 {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conversation .title .icone {
+    width: 25px;
+    height: 25px;
+    font-weight: lighter;
+    color: #007bff;
+}
+.conversation .body_conversation {
+    height: 91%;
+    width: 100%;
+    margin: 5px auto;
+    overflow-y: scroll;
+}
+.conversation .body_conversation .message {
+    width: 97%;
+    height: auto;
+    margin: 5px auto;
+    display: flex;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.conversation .body_conversation .message img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 25px;
+}
+.conversation .body_conversation .message  p {
+    text-align: justify;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #808080;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}

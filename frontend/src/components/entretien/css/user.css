@@ -1,0 +1,24 @@
+.user-speak {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.user-speak .sound {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #007bff;
+ }
+.user-speak .sound .sound-wave {
+    height: 100%;
+    font-weight: bold;
+    font-size: 30px;
+    width: 70%;
+}
+.user-speak .sound .icone {
+    width: 20px;
+    height: 20px;
+    color: white;
+}

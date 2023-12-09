@@ -1,0 +1,8 @@
+.presentation {
+    background-image: url(../../../assets/raw.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 70px;
+    height: 91vh;
+    width: 100%;
+}
